@@ -1,0 +1,36 @@
+10 cosas que hace un desarrollador de Python
+Un desarrollador Python debe tener conocimientos de programación Python para escribir, probar y mantener el código escrito en el lenguaje de programación Python. Un desarrollador de Python debe aprender programación orientada a objetos, sintaxis básica de Python, semántica, tipos de datos primitivos y operadores aritméticos. A menudo colaboran con otros desarrolladores para garantizar que el proyecto cumpla sus objetivos de forma eficiente y eficaz.
+
+Algunas de sus responsabilidades clave incluyen:
+
+1. Desarrollar componentes back-end
+Los desarrolladores de Python crean la interfaz entre un sitio web y su servidor. Esto incluye el desarrollo de componentes como aplicaciones web, API, bases de datos y otros servicios. Esto significa que los desarrolladores de back-end deben tener una sólida comprensión del lenguaje Python, así como de cualquier marco de Python (como Django y Flask).
+
+2. Integración de elementos de cara al usuario
+Los desarrolladores de Python también son responsables de desarrollar elementos de cara al usuario para ayudar a integrar la aplicación en el entorno del usuario final. Esto incluye la construcción de componentes front-end como HTML, CSS y JavaScript.
+
+3. Escribir la lógica del lado del servidor
+Los desarrolladores de Python suelen ser responsables de escribir la lógica del lado del servidor que ejecuta la aplicación. Esto incluye cosas como autenticación, autorización, validaciones de entrada y otras funcionalidades que se necesitan para asegurarse de que la aplicación se comporta como se espera.
+
+4. Diseñar e implementar soluciones de almacenamiento de datos
+Los desarrolladores de Python necesitan estar familiarizados con las estructuras de datos de Python, varias bases de datos y soluciones de almacenamiento de datos para asegurar que la aplicación puede almacenar y gestionar sus datos de manera eficiente para que puedan ser utilizados para el análisis de datos. Esto incluye la comprensión de las bases de datos SQL y NoSQL, así como el diseño de esquemas de bases de datos eficientes.
+
+5. Depuración y optimización de código Python
+Los desarrolladores de Python deben tener buen ojo para los detalles y ser capaces de solucionar problemas y optimizar el código que escriben. Esto significa revisar regularmente el código existente y buscar formas de hacerlo más eficiente o solucionar problemas antes de que se conviertan en problemas mayores.
+
+6. Trabajar con otros equipos
+Los desarrolladores de Python a menudo tienen que colaborar con otros equipos, como los administradores de productos, diseño y sistemas, para garantizar que su código funciona correctamente y cumple los objetivos del proyecto. Esto requiere excelentes habilidades de comunicación y una comprensión de cómo todos los diferentes equipos trabajan juntos.
+
+7. Pruebas de código
+Un desarrollador de Python es responsable de probar su código para asegurarse de que funciona como se espera en distintos entornos y escenarios. Esto significa configurar casos de prueba, ejecutarlos y depurar cualquier problema que surja.
+
+8. Despliegue de aplicaciones
+Un desarrollador Python también es responsable de desplegar aplicaciones en servidores de producción y asegurarse de que se ejecutan correctamente en el entorno deseado. Esto incluye establecer configuraciones, ejecutar scripts y solucionar problemas según sea necesario.
+
+9. Mantener la calidad del código
+Además de escribir código, los desarrolladores de Python son responsables de asegurarse de que el código que escriben cumple con los estándares del proyecto. Esto incluye escribir pruebas, adherirse a las convenciones de codificación y refactorizar el código según sea necesario.
+
+10. Investigar nuevas tecnologías
+Los desarrolladores de Python deben ser capaces de mantenerse al día sobre las últimas tecnologías con el fin de garantizar que su código sigue siendo eficiente y relevante. Esto significa investigar regularmente nuevas bibliotecas y tecnologías, así como entender cómo pueden beneficiar al proyecto.
+
+https://rightpeoplegroup.com/es/blog/que-hace-un-desarrollador-de-python-y-como-encontrar-y-contratar-a-uno-con-experiencia
